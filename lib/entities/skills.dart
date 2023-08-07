@@ -1,0 +1,17 @@
+List<String> skills = [
+  'Repair',
+  'Shopping',
+  'Cleaning',
+  'Pet Sitting',
+  'Plumbing',
+  'Electricity',
+  'Painting',
+  'Cooking',
+  'Gardening',
+  'Childcare',
+  'Driving',
+  'Photography',
+  'Writing',
+  'Translation',
+  'Marketing',
+];

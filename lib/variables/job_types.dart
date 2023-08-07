@@ -1,0 +1,1 @@
+final List<String> job_types = ['Pet Sitting', 'Plumbing', 'Cleaning', 'Gardening', 'Delivery', 'Painting'];
